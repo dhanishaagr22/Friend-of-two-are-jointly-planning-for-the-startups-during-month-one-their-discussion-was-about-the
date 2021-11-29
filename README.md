@@ -1,0 +1,2 @@
+# Friend-of-two-are-jointly-planning-for-the-startups-during-month-one-their-discussion-was-about-the
+Friend of two are jointly planning for the startups, during month one their discussion was about the, &amp;quot;1. Infrastructure of the work area&amp;quot;, &amp;quot;2. Capital and funding&amp;quot; and &amp;quot;3. Human resources&amp;quot;. Three months later they started implementing. Represent this concept by using Abstract class.
